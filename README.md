@@ -4,6 +4,8 @@ FEATURES
 - Clean, responsive interface
 - Background video effect
 - Easy navigation between pages
+
+
 TECHNOLOGIES USED
 - Python Flask (Backend)
 - JavaScript (Frontend logic)
