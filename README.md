@@ -1,12 +1,11 @@
-FEATURES
+## FEATURES
 - Real-time currency conversion using ExchangeRate-API
 - Supports 20+ world currencies
 - Clean, responsive interface
 - Background video effect
 - Easy navigation between pages
 
-
-TECHNOLOGIES USED
+## TECHNOLOGIES USED
 - Python Flask (Backend)
 - JavaScript (Frontend logic)
 - Bootstrap 5 (UI Components)
